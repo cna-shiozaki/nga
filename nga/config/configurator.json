@@ -1,0 +1,9 @@
+{
+    "filter": {
+        "nationality": "French",
+        "lifespan" : "1850_1870",
+        "style" : "Romantic"
+    },
+
+    "target_directory" : "./download_dir"
+}
